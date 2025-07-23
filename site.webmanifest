@@ -3,13 +3,13 @@
   "short_name": "Kos",
   "icons": [
     {
-      "src": "/https://marcianolahaye.github.io/keetopkos/img/keetopkos/web-app-manifest-192x192.png",
+      "src": "img/keetopkos/web-app-manifest-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "/https://marcianolahaye.github.io/keetopkos/img/keetopkos/web-app-manifest-512x512.png",
+      "src": "img/keetopkos/web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
